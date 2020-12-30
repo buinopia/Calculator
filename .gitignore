@@ -1,5 +1,6 @@
 css/
-js/
+js/script.js
+js/script.min.js
 fonts/
 img/
 license
